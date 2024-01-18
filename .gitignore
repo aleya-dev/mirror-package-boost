@@ -1,0 +1,8 @@
+source/bin*/
+source/stage/
+source/project-config.jam
+*.exe
+*.obj
+conanbuild*
+conanrun*
+deactivate_conan*
